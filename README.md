@@ -1,1 +1,1 @@
-This is a new project for learning git
+This is the newly updated readme file for the new project of learning git
